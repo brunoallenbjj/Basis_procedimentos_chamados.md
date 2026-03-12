@@ -26,7 +26,7 @@
 |---|---|
 | **Sintoma relatado** | Página sem resposta ao criar NFSE (Nota Fiscal de Serviço Eletrônica) |
 | **Aplicação** | SAP Fiori — transação `NotaFiscal-create` |
-| **Ambiente** | Produtivo (sap-client=300) |
+| **Ambiente** | Produtivo / Qas / Dev |
 | **Evidência** | Browser exibindo popup *"Página sem resposta"* — aba travada aguardando resposta do servidor |
 | **Possíveis causas** | Lentidão no backend SAP, no Gateway/OData, na rede ou recursos do servidor esgotados |
 
