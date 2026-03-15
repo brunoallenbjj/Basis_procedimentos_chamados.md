@@ -135,8 +135,8 @@ Equipe de Suporte SAP
 ## 📎 Referências
 
 - Chamado de origem: **SAP-INFRA-LENTIDAO/ALTO PROCESSAMENTO NO SERVIDOR**
-- Usuário que originou o procedimento: Marilandes Rozendo — Filial Republica-SP (2500)
-- Ambiente: `SLATAM-BR_SAP-S4-HANA`
+- Usuário que originou o procedimento:
+- Ambiente: 
 
 ---
 
