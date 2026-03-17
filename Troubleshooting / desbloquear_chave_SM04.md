@@ -33,7 +33,7 @@ Coletar no chamado:
 Usuário SAP | xxxxxx |
 Documento | Ordem 4379423974234809238094 |
 Transação | ZZ11 |
-Ambiente | Produção |
+Ambiente | Qualquer ambiente |
 
 ---
 
