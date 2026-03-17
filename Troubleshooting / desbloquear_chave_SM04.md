@@ -30,9 +30,9 @@ Coletar no chamado:
 
 | Informação | Exemplo |
 |-------------|--------|
-Usuário SAP | D7FB86 |
-Documento | Ordem 6762635 |
-Transação | VA23 |
+Usuário SAP | xxxxxx |
+Documento | Ordem 4379423974234809238094 |
+Transação | ZZ11 |
 Ambiente | Produção |
 
 ---
@@ -53,7 +53,7 @@ Exemplo:
 
 | Usuário | Transação |
 |--------|-----------|
-D7FB86 | VA23 |
+XXXXX | zz11 |
 
 ### Possíveis cenários
 
